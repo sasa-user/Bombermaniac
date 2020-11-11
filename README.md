@@ -15,3 +15,5 @@ html version: http://alas.matf.bg.ac.rs/~mi13211/bomberman/ <br/>
 pdf version : http://alas.matf.bg.ac.rs/~mi13211/Bomberman.pdf
 
 Further instruction can be found inside documentation.
+
+Ported on Nintendo switch by KranK: https://github.com/KranKRival/BomberManNX/ 
